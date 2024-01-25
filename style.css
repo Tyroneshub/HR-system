@@ -1,0 +1,11 @@
+h1{
+            background-color: black;
+            color: white;
+        }
+        body{
+            background-color: white;
+            font: bold;
+            color:darkslategray;
+            padding: 20px;
+            font-style: italic;
+        }
